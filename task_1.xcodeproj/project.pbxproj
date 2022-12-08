@@ -12,6 +12,8 @@
 		060151E0293FD4D4000F05DF /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060151DF293FD4D4000F05DF /* MainViewController.swift */; };
 		060151E5293FD4D8000F05DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 060151E4293FD4D8000F05DF /* Assets.xcassets */; };
 		060151E8293FD4D8000F05DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 060151E6293FD4D8000F05DF /* LaunchScreen.storyboard */; };
+		06C022022942719500081321 /* LanguageData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C022012942719500081321 /* LanguageData.swift */; };
+		06C022042942720F00081321 /* Extension + UIPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C022032942720F00081321 /* Extension + UIPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		060151E4293FD4D8000F05DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		060151E7293FD4D8000F05DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		060151E9293FD4D8000F05DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06C022012942719500081321 /* LanguageData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageData.swift; sourceTree = "<group>"; };
+		06C022032942720F00081321 /* Extension + UIPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIPickerView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +60,9 @@
 			children = (
 				060151DB293FD4D4000F05DF /* AppDelegate.swift */,
 				060151DD293FD4D4000F05DF /* SceneDelegate.swift */,
+				06C022012942719500081321 /* LanguageData.swift */,
 				060151DF293FD4D4000F05DF /* MainViewController.swift */,
+				06C022032942720F00081321 /* Extension + UIPickerView.swift */,
 				060151E4293FD4D8000F05DF /* Assets.xcassets */,
 				060151E6293FD4D8000F05DF /* LaunchScreen.storyboard */,
 				060151E9293FD4D8000F05DF /* Info.plist */,
@@ -136,7 +142,9 @@
 			files = (
 				060151E0293FD4D4000F05DF /* MainViewController.swift in Sources */,
 				060151DC293FD4D4000F05DF /* AppDelegate.swift in Sources */,
+				06C022042942720F00081321 /* Extension + UIPickerView.swift in Sources */,
 				060151DE293FD4D4000F05DF /* SceneDelegate.swift in Sources */,
+				06C022022942719500081321 /* LanguageData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
