@@ -7,7 +7,7 @@
 
 import UIKit
 
-class MainViewController: UIViewController {
+class MainViewController: UIViewController { 
     
     private let logoImage = UIImage(named:"logo")
     let greetingLabel = UILabel()
