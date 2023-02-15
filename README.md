@@ -1,3 +1,6 @@
+![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN)
+<img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN" alt="drawing" width="200"/>
+
 1. Завести AppleId: https://developer.apple.com/
 2. Установка и настройка Xcode
 Установите Xcode из AppStore или через https://developer.apple.com/download/
