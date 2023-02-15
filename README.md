@@ -1,5 +1,5 @@
 Скриншоты итогового приложения:
-![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1VPw4HCrRBhpJjohdKSRCDQqm60RiQ1yP)
+![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PeCfFUR29i0H3EixGhvwGxEkqDaDqm5k)
 
 Задание:
 
