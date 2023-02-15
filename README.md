@@ -1,12 +1,7 @@
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN" alt="Youtube Badge"/>
-  </a>
-</div>
+Скриншоты итогового приложения:
+![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1VPw4HCrRBhpJjohdKSRCDQqm60RiQ1yP)
 
+Задание:
 1. Завести AppleId: https://developer.apple.com/
 2. Установка и настройка Xcode
 Установите Xcode из AppStore или через https://developer.apple.com/download/
