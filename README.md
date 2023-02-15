@@ -2,6 +2,7 @@
 ![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1VPw4HCrRBhpJjohdKSRCDQqm60RiQ1yP)
 
 Задание:
+
 1. Завести AppleId: https://developer.apple.com/
 2. Установка и настройка Xcode
 Установите Xcode из AppStore или через https://developer.apple.com/download/
