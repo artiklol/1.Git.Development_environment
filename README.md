@@ -1,6 +1,6 @@
-Скриншоты итогового приложения:
+Скриншоты моего приложения:
 ![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1PeCfFUR29i0H3EixGhvwGxEkqDaDqm5k)
-Задание:
+Какое было задание:
 
 **1. Завести AppleId:**
 
