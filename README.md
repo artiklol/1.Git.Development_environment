@@ -1,5 +1,11 @@
-![alt text](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN)
-<img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN" alt="drawing" width="200"/>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=19mK-xgPClsbYXo0caQu4ON8wtDD8aYLN" alt="Youtube Badge"/>
+  </a>
+</div>
 
 1. Завести AppleId: https://developer.apple.com/
 2. Установка и настройка Xcode
